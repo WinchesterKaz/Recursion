@@ -41,9 +41,9 @@
  
 // вызов функции Аккермана 
 //void AkkermanFunction(int m, int n) 
-{ 
-    Console.Write(Akkerman(m, n)); 
-} 
+//{ 
+    //Console.Write(Akkerman(m, n)); 
+//} 
  
 // функция Аккермана 
 //int Akkerman(int m, int n) 
